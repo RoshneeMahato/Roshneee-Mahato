@@ -1,1 +1,5 @@
-# Roshneee-Mahato
+day.py in this file the code is describing a menu-driven linrary system which is enables customers to view the books that are available, brrow, or return them as they see fit.
+function1.pyin this file the code defines the function to determine the cost of an event ticket is defined in the code  and the "premium" category is used to call the function, which is outputs the price of the ticket.
+tuetle.py in this file the code draw the forms like stars and rectangles, get the height of the canvas and the program is interactive when the mouse is clicked.
+loopturtle.py in this file the code draws concentric circles with different using python's turtle module and it then gently rotates the turtle and exits when the mouse is clicked.
+class.py in this file the code define the classes 'Cat', 'DomesticCat', and 'WildCat', alond with the characteristics and methods for generating and providing cat objects with sound adaptations.
